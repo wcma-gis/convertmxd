@@ -1,0 +1,2 @@
+
+#sde_path = r"C:\Files\old\MXDs\blank\PostgreSQL-gisap01-sdc(gisuser)2.sde"
